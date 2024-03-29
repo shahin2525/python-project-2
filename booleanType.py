@@ -15,11 +15,15 @@
 # y = ""
 # print(type(y))
 
-li = [1,2,3,5]
-li[1]=20
+# li = [1,2,3,5]
+# li[1]=20
+#
+# tuple = (1,2,3,8)
+# ran =range (6)
+# for i in ran:
+#    print(i)
 
-tuple = (1,2,3,8)
-ran =range (6)
-for i in ran:
-   print(i)
+x = 5
+y = 3
 
+print(x + y)
