@@ -12,6 +12,6 @@ listItems = ["cherry0","apple","banana",20]
 # listItems.pop(1)
 # listItems.pop()
 # del  listItems[2]
-listItems.clear()
+# listItems.clear()
 
 print(listItems)
