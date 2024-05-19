@@ -13,5 +13,5 @@ listItems = ["cherry0","apple","banana",20]
 # listItems.pop()
 # del  listItems[2]
 # listItems.clear()
-
+# class 2
 print(listItems)
